@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Vim
+*.swp
+*.swo
+
+# Tests
+src/test/samples/misc/*.pdf
+src/test/samples/W3C_SVG_12_TinyTestSuite*
+src/test/samples/wikipedia/flags/*
